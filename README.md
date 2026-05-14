@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-I'm Marwa Ahmed, Frontend Developer 💻
+<h2 align="left">I'm Marwa Ahmed, Frontend Developer 💻</h2>
 
 <hr></hr>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -41,9 +41,5 @@ I'm Marwa Ahmed, Frontend Developer 💻
 
 
 </div>
-<h2 align="left">
- <abc>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+
 
